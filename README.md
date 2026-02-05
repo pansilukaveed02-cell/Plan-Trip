@@ -2,7 +2,7 @@
 
 ## Group Information
 - **Student 1:** [Full Name] - [Student ID] - Role: DevOps Engineer
-- **Student 2:** [Full Name] - [Student ID] - Role: Full-Stack Developer
+- **Student 2:** [Rapa] - [Student ID] - Role: Full-Stack Developer
 
 
 ## Project Description
