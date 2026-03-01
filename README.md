@@ -23,9 +23,7 @@
 
 ## 🔗 Live Deployment
 
-🌐 **Live URL:** [https://plan-trip-devops.netlify.app](https://plan-trip-devops.netlify.app)
-
-> *(Update this URL after Netlify deployment is complete)*
+🌐 **Live URL:** [https://luxury-truffle-69b0e9.netlify.app](https://luxury-truffle-69b0e9.netlify.app)
 
 ---
 
