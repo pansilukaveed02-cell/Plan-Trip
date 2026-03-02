@@ -105,6 +105,27 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     });
 });
 
+// ===== NEWSLETTER FORM HANDLER =====
+const newsletterForm = document.getElementById('newsletterForm');
+if (newsletterForm) {
+    newsletterForm.addEventListener('submit', (e) => {
+        e.preventDefault();
+        const emailInput = document.getElementById('newsletter-email');
+        const btn = newsletterForm.querySelector('button');
+        if (!emailInput.value) return;
+        btn.textContent = 'Subscribing...';
+        btn.disabled = true;
+        setTimeout(() => {
+            btn.textContent = '✅ Subscribed!';
+            emailInput.value = '';
+            setTimeout(() => {
+                btn.textContent = 'Subscribe';
+                btn.disabled = false;
+            }, 3000);
+        }, 1000);
+    });
+}
+
 // ===== INIT =====
 document.addEventListener('DOMContentLoaded', () => {
     revealOnScroll();
