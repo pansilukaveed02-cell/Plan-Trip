@@ -10,8 +10,8 @@
 
 | # | Full Name | Student ID | Role |
 |---|-----------|------------|------|
-| 1 | Pansilu Kaveed | [Student ID] | DevOps Engineer |
-| 2 | Methsara Sangeeth | [Student ID] | Full-Stack Developer |
+| 1 | Pansilu Kaveed | ITBIN-2313-0140 | DevOps Engineer |
+| 2 | Methsara Sangeeth | ITBIN-2313-0100 | Full-Stack Developer |
 
 ---
 
